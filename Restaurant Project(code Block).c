@@ -29,6 +29,7 @@ void generateBillHeader(char name[50], char date[30]) {
     printf("Total\t\t");
     printf("\n------------------------------");
     printf("\n");
+    printf("\n");
 }
 
 // Function to generate the bill body
